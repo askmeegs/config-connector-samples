@@ -1,0 +1,5 @@
+install.sh
+uninstall.sh
+install-bundle*
+*.json
+.DS_Store
